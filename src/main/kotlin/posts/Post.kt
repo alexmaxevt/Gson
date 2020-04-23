@@ -17,5 +17,5 @@ class Post (
     var postType: PostType,
     var videoLink: String? = null,
     var intentLink: String? = null,
-    var imageLink: String? = null
+    var imageLink: Int? = null
 )

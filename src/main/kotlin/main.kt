@@ -10,7 +10,7 @@ fun main() {
         Post(1, "Netology", "First post in our network!", 1585637381, false, 0, false, 50, false, 10, postType = PostType.POST),
         Post(2, "Netology", "First post in our network!", 1585637381, false, 0, false, 50, false, 10, "address", 55.75222, 37.61556, postType = PostType.EVENT),
         Post(3, "Netology", "First post in our network!", 1585637381, false, 0, false, 50, false, 10, null, null, null, postType = PostType.VIDEO, videoLink = "https://vimeo.com/27299211"),
-        Post(4, "Netology", "First post in our network!", 1585637381, false, 0, false, 50, false, 10, null, null, null, postType = PostType.ADVERTISING, videoLink = null, intentLink = "https://netology.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=brand_all_ou_ya_retarget&utm_content=8944030781&utm_term=нетология&yclid=1932640884155777924&stop=1", imageLink = "https://netology.ru/backend/tilda/images/tild6631-3066-4237-b831-316130393663__logo-full-color-blac.svg")
+        Post(4, "Netology", "First post in our network!", 1585637381, false, 0, false, 50, false, 10, null, null, null, postType = PostType.ADVERTISING, videoLink = null, intentLink = "https://netology.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=brand_all_ou_ya_retarget&utm_content=8944030781&utm_term=нетология&yclid=1932640884155777924&stop=1")
     )
     val gson = GsonBuilder().apply {
         setPrettyPrinting()
