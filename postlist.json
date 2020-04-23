@@ -10,13 +10,13 @@
     "sharedCount": 50,
     "commentsByMe": false,
     "commentsCount": 10,
-    "address": "",
-    "lat": 0.0,
-    "lng": 0.0,
+    "address": null,
+    "lat": null,
+    "lng": null,
     "postType": "POST",
-    "videoLink": "",
-    "imageLink": "",
-    "intentLink": ""
+    "videoLink": null,
+    "intentLink": null,
+    "imageLink": null
   },
   {
     "id": 2,
@@ -33,9 +33,9 @@
     "lat": 55.75222,
     "lng": 37.61556,
     "postType": "EVENT",
-    "videoLink": "",
-    "imageLink": "",
-    "intentLink": ""
+    "videoLink": null,
+    "intentLink": null,
+    "imageLink": null
   },
   {
     "id": 3,
@@ -48,16 +48,16 @@
     "sharedCount": 50,
     "commentsByMe": false,
     "commentsCount": 10,
-    "address": "",
-    "lat": 0.0,
-    "lng": 0.0,
+    "address": null,
+    "lat": null,
+    "lng": null,
     "postType": "VIDEO",
     "videoLink": "https://vimeo.com/27299211",
-    "imageLink": "",
-    "intentLink": ""
+    "intentLink": null,
+    "imageLink": null
   },
   {
-    "id": 1,
+    "id": 4,
     "author": "Netology",
     "content": "First post in our network!",
     "dateStamp": 1585637381,
@@ -67,12 +67,12 @@
     "sharedCount": 50,
     "commentsByMe": false,
     "commentsCount": 10,
-    "address": "",
-    "lat": 0.0,
-    "lng": 0.0,
+    "address": null,
+    "lat": null,
+    "lng": null,
     "postType": "ADVERTISING",
-    "videoLink": "",
-    "imageLink": "https://netology.ru/backend/tilda/images/tild6631-3066-4237-b831-316130393663__logo-full-color-blac.svg",
-    "intentLink": "https://netology.ru/?utm_source\u003dyandex\u0026utm_medium\u003dcpc\u0026utm_campaign\u003dbrand_all_ou_ya_retarget\u0026utm_content\u003d8944030781\u0026utm_term\u003dнетология\u0026yclid\u003d1932640884155777924\u0026stop\u003d1"
+    "videoLink": null,
+    "intentLink": "https://netology.ru/?utm_source\u003dyandex\u0026utm_medium\u003dcpc\u0026utm_campaign\u003dbrand_all_ou_ya_retarget\u0026utm_content\u003d8944030781\u0026utm_term\u003dнетология\u0026yclid\u003d1932640884155777924\u0026stop\u003d1",
+    "imageLink": "https://netology.ru/backend/tilda/images/tild6631-3066-4237-b831-316130393663__logo-full-color-blac.svg"
   }
 ]
